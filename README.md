@@ -1,1 +1,0 @@
-# Scientific_Programming_Exercise1
